@@ -1,0 +1,7 @@
+/* code CSS pour mise en page des sections */
+body {background: pink;}
+body {text-align: center;}
+
+body * {
+  min-height: 30vh;
+}
